@@ -1,0 +1,29 @@
+h2,h5{
+    color:hsl(0, 0%, 7%);
+    margin-left: 10px;
+}
+
+p{
+    color: hsl(0, 0%, 50%);
+    font-size: 16px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    line-height: 1.4;
+    
+}
+
+.card{
+    
+    background: hsl(0, 0%, 100%);
+    text-align: justify;
+    margin: 10px;
+    box-shadow: 10px 10px  black;
+}
+.contain {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    margin-left: 43rem;
+    flex-wrap: wrap;
+}
